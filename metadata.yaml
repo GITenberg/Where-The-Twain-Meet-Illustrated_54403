@@ -1,5 +1,8 @@
 _repo: Where-The-Twain-Meet-Illustrated_54403
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54403-h/images/cover.jpg
 creator:
   author:
     agent_name: Gaunt, Mary
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '9864'
     url: http://www.gutenberg.org/2009/agents/9864
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54403#Where-The-Twain-Meet-Illustrated
 gutenberg_issued: '2017-03-21'
 gutenberg_type: Text
 identifiers:
